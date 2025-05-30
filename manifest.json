@@ -1,0 +1,34 @@
+{
+    "manifest_version": 3,
+    "name": "Dark Evilur",
+    "version": "1.0",
+    "description": "",
+    "theme": {
+        "colors": {
+            "background_tab": [26, 27, 38],
+            "background_tab_inactive": [26, 27, 38],
+            "background_tab_incognito": [26, 27, 38],
+            "background_tab_incognito_inactive": [26, 27, 38],
+            "bookmark_text": [255, 255, 255],
+            "button_background": [255,0,0],
+            "frame": [26, 27, 38],
+            "frame_inactive": [26, 27, 38],
+            "frame_incognito": [26, 27, 38],
+            "frame_incognito_inactive": [26, 27, 38],
+            "ntp_background": [26, 27, 38],
+            "ntp_header": [255,0,0],
+            "ntp_link": [255,0,0],
+            "ntp_text": [248, 248, 248],
+            "omnibox_background": [26, 27, 38],
+            "omnibox_text": [248, 248, 248],
+            "tab_background_text": [248, 248, 248],
+            "tab_background_text_inactive": [248, 248, 248],
+            "tab_background_text_incognito": [248, 248, 248],
+            "tab_background_text_incognito_inactive": [248, 248, 248],
+            "tab_text": [255, 255, 255],
+            "toolbar": [40,42,54],
+            "toolbar_button_icon": [248, 248, 248],
+            "toolbar_text": [248, 248, 248]
+        }
+    }
+}
