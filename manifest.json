@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Dark Evilur",
-    "version": "1.0",
+    "version": "1.0.0",
     "description": "A dark cold theme by Evilur. Inspired by dracula theme",
     "theme": {
         "colors": {
