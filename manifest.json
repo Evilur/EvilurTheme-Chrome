@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Dark Evilur",
-    "version": "1.0.0",
-    "description": "A dark cold theme by Evilur. Inspired by dracula theme",
+    "name": "Evilur",
+    "version": "1.1.0",
+    "description": "A clean, dark Chrome theme with subtle contrasts for a modern and focused browsing experience",
     "theme": {
         "colors": {
             "background_tab": [26, 27, 38],
